@@ -5,9 +5,7 @@ Skebopub is a web application for managing a bar. It allows users to view menus,
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -20,17 +18,10 @@ Here are some of the key features of Skebopub:
 - Inventory management
 - Sales tracking and reporting
 
-## Installation
-
-To install Skebopub, simply visit the live website at https://wordpress-skebopub.azurewebsites.net/ 
-
 ## Usage
 
 To use Skebopub, simply visit the live website at https://wordpress-skebopub.azurewebsites.net/
 
-## Contributing
-
-Contributions to Skebopub are not accepted at this time.
 
 ## License
 
